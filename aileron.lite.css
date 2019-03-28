@@ -90,18 +90,18 @@
 
 @font-face {
     font-family: 'Aileron';
-        src: url('fonts/Aileron-Semibold.ttf') format('truetype'),
-             url('fonts/Aileron-Semibold.woff') format('woff'),
-             url('fonts/Aileron-Semibold.woff2') format('woff2');
+        src: url('fonts/Aileron-SemiBold.ttf') format('truetype'),
+             url('fonts/Aileron-SemiBold.woff') format('woff'),
+             url('fonts/Aileron-SemiBold.woff2') format('woff2') url('fonts/Aileron-SemiBoldItalic.eot');
     font-weight: 500;
     font-style: normal;
       }
 
 @font-face {
     font-family: 'Aileron';
-        src: url('fonts/Aileron-SemiboldItalic.ttf') format('truetype'),
-             url('fonts/Aileron-SemiboldItalic.woff') format('woff'),
-             url('fonts/Aileron-SemiboldItalic.woff2') format('woff2');
+        src: url('fonts/Aileron-SemiBoldItalic.ttf') format('truetype'),
+             url('fonts/Aileron-SemiBoldItalic.woff') format('woff'),
+             url('fonts/Aileron-SemiBoldItalic.woff2') format('woff2');
     font-weight: 500;
     font-style: italic;
       }
