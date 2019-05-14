@@ -120,24 +120,24 @@
 
 @font-face {
     font-family: 'Aileron';
-        src: url('fonts/Aileron-Semibold.otf') format('opentype'),
-             url('fonts/Aileron-Semibold.ttf') format('truetype'),
-             url('fonts/Aileron-Semibold.svg') format('svg'),
-             url('fonts/Aileron-Semibold.eot') format('eot'),
-             url('fonts/Aileron-Semibold.woff') format('woff'),
-             url('fonts/Aileron-Semibold.woff2') format('woff2');
+        src: url('fonts/Aileron-SemiBold.otf') format('opentype'),
+             url('fonts/Aileron-SemiBold.ttf') format('truetype'),
+             url('fonts/Aileron-SemiBold.svg') format('svg'),
+             url('fonts/Aileron-SemiBold.eot') format('eot'),
+             url('fonts/Aileron-SemiBold.woff') format('woff'),
+             url('fonts/Aileron-SemiBold.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
       }
 
 @font-face {
     font-family: 'Aileron';
-        src: url('fonts/Aileron-SemiboldItalic.otf') format('opentype'),
-             url('fonts/Aileron-SemiboldItalic.ttf') format('truetype'),
-             url('fonts/Aileron-SemiboldItalic.svg') format('svg'),
-             url('fonts/Aileron-SemiboldItalic.eot') format('eot'),
-             url('fonts/Aileron-SemiboldItalic.woff') format('woff'),
-             url('fonts/Aileron-SemiboldItalic.woff2') format('woff2');
+        src: url('fonts/Aileron-SemiBoldItalic.otf') format('opentype'),
+             url('fonts/Aileron-SemiBoldItalic.ttf') format('truetype'),
+             url('fonts/Aileron-SemiBoldItalic.svg') format('svg'),
+             url('fonts/Aileron-SemiBoldItalic.eot') format('eot'),
+             url('fonts/Aileron-SemiBoldItalic.woff') format('woff'),
+             url('fonts/Aileron-SemiBoldItalic.woff2') format('woff2');
     font-weight: 500;
     font-style: italic;
       }
